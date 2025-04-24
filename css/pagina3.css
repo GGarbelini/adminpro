@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing:border-box ;
     background-color: #b1ffab; 
+    overflow: hidden;
 }
 
 
@@ -23,6 +24,7 @@ header {
     flex-wrap: wrap;
     align-items: left;
     gap: 1rem;
+    
     
     
     
